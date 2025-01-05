@@ -1,5 +1,5 @@
 
-# 1Scan Hacking Scanner 全平台一键渗透扫描器
+# 1Scan一键渗透扫描器
 
 ### Wiki
 
@@ -16,7 +16,7 @@ https://github.com/0x7556/1Scan<br>
 
 ### Introduction
 
-1Scan 全平台一键渗透扫描器，只需输入目标（IP、URL、CIDR、ip.txt、ipc.txt、ipb.txt、url.txt），即可一键使用多协议收集信息，各种网络协议密码爆破，高危1Day、Nday漏洞探测，一键GetShell。
+1Scan 全平台一键渗透扫描器，只需输入目标（IP、URL、CIDR、ip.txt、ipc.txt、ipb.txt、url.txt），即可一键使用多种协议收集信息、网络密码爆破、高危1Day、Nday漏洞探测、一键GetShell等。
 
 ### Usage 用法
 
