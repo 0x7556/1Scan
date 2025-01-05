@@ -78,14 +78,14 @@ ID | OS
 以上系统测试成功,若遇到失败系统请告知
 
 #### MacOS
-![image](http://0x7556.org/1Scan/img/1Scan.png)
+![image](https://github.com/0x7556/1Scan/blob/main/img/1Scan.png)
 
 #### Linux
-![image](http://0x7556.org/1Scan/img/kali.png)
-![image](http://0x7556.org/1Scan/img/debian12.png)
+![image](https://github.com/0x7556/1Scan/blob/main/img/kali.png)
+![image](https://github.com/0x7556/1Scan/blob/main/img/debian12.png)
 
 #### Windows
-![image](http://0x7556.org/1Scan/img/win11.png)
+![image](https://github.com/0x7556/1Scan/blob/main/img/win11.png)
 
 
 ### Download 下载
