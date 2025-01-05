@@ -77,7 +77,10 @@ ID | OS
 
 以上系统测试成功,若遇到失败系统请告知
 
-#### MacOS
+#### 1Scan
+
+如图一键漏洞检测MS17-010、开放端口、主机名、Web资产、密码爆破等<br>
+RCE漏洞、成功密码高亮显示，成功密码保存1Scan.log日志
 ![image](https://github.com/0x7556/1Scan/blob/main/img/1Scan.png)
 
 #### Linux
